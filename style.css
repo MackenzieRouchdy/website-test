@@ -1,0 +1,187 @@
+body {
+    margin: 0px;
+}
+
+.headerimg img {
+    position: relative;
+    height: 21vh;
+    width: 100vw;
+    border-top: 6px solid brown;
+    background-size: cover;
+    top: 0px;
+    right: 0px;
+}
+
+.logo img {
+    position: absolute;
+    top: 14px;
+    right: 979px;
+}
+
+ .headerhome a {
+    text-decoration: none;
+    position: absolute;
+    right: 805px;
+    top: 0px;
+    font-weight: bold;
+    color: white;
+    padding-top: 45px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    height: 3px;
+    width: 130px;
+    background-color: brown;
+    font: larger;
+    background-size: 13px;
+    font-family: 'Anton', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+}
+
+
+.headerpro a {
+    position: absolute;
+    text-decoration: none;
+    right: 655px;
+    top: 6px;
+    font-weight: bold;
+    color: white;
+    padding-top: 72px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    height: 3px;
+    width: 130px;
+    background-color: rgb(5, 5, 223);
+    font: larger;
+    background-size: 13px;
+    font-family: 'Anton', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+    font-weight: bold;
+}
+
+
+
+.showcase img {
+    position: relative;
+    top: 170px;
+}
+
+.showcase {
+    position: absolute;
+    top: 0px;
+}
+
+.socialbackground {
+    position: absolute;
+    bottom: 230px;
+}
+
+.socials .yt{
+    position: absolute;
+    left: 700px;
+    top: 615px;
+}
+
+.socials .facebook {
+    position: absolute;
+    left: 780px;
+    top: 615px;
+}
+
+.socials .twitter {
+    position: absolute;
+    left: 860px;
+    top: 615px;
+}
+
+
+.socials .email {
+    position: absolute;
+    left: 940px;
+    top: 615px;
+}
+
+.line {
+    top: 575px;
+    height: 70px;
+    right: 900px;
+    position: absolute;
+}
+
+.history {
+    position: absolute;
+    right: 700px; 
+    bottom: 340px;
+    color: white;
+}
+
+.wrigley {
+    position: absolute;
+    right: 774px; 
+    bottom: 300px;
+    color: white;
+}
+
+
+.likeFace {
+    position: absolute;
+    right: 756px; 
+    bottom: 255px;
+    color: white;
+}
+
+
+.footerback {
+    bottom: 80px;
+    position: absolute;
+}
+
+.evenbiggerfooterback {
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+
+.evenbiggerfooterback input {
+    color: green;
+    height: 30px;
+    width: 150px;
+    right: 1780px;
+    position: absolute;
+}
+
+
+
+.original h1 {
+    position: absolute;
+    color: red;
+    top: 170px;
+    right: 790px;
+}
+
+.original p {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 210px;
+    left: 970px;
+    padding-right: 470px;
+    font-size: 19px;
+    
+}
+
+
+.original img {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+
+.original input[type="button"] {
+    position: absolute;
+    left: 970px;
+    top: 410px;
+    color: white;
+    background-color: blue;
+    border-radius: 10em;
+    height: 35px;
+    width: 110px;
+}

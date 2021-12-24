@@ -1,0 +1,206 @@
+body {
+    margin: 0px;
+}
+
+.headerimg img {
+    position: relative;
+    height: 21vh;
+    width: 100vw;
+    border-top: 6px solid brown;
+    background-size: cover;
+    top: 0px;
+    right: 0px;
+}
+
+.logo img {
+    position: absolute;
+    top: 14px;
+    right: 979px;
+}
+
+.headerhome a {
+    text-decoration: none;
+    position: absolute;
+    right: 805px;
+    top: 0px;
+    font-weight: bold;
+    color: white;
+    padding-top: 72px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    height: 3px;
+    width: 130px;
+    background-color: brown;
+    font: larger;
+    background-size: 13px;
+    font-family: 'Anton', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+}
+
+
+.headerpro a {
+    position: absolute;
+    text-decoration: none;
+    right: 655px;
+    top: 6px;
+    font-weight: bold;
+    color: white;
+    padding-top: 45px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    height: 3px;
+    width: 130px;
+    background-color: rgb(5, 5, 223);
+    font: larger;
+    background-size: 13px;
+    font-family: 'Anton', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+    font-weight: bold;
+}
+
+
+.longer {
+    padding-right: 46px;
+    padding-left: 15px;
+    size: 50px;
+    height: 96px;
+    width: 358px;
+    font-size: 9px;
+    left: 508px;
+    top: 230px;
+    padding-bottom: 150px;
+    position: absolute;
+    color: red;
+    border: 9px solid white;
+}
+
+.learnmore input[type="button"] {
+    position: absolute;
+    left: 820px;
+    top: 445px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10em;
+    background-color: brown;
+    color: white;
+}
+
+.longer img {
+    height: 198px;
+    size: 50px;
+    right: 10px;
+    top: 45px;
+}
+
+.starburst {
+    padding-right: 46px;
+    padding-left: 15px;
+    size: 50px;
+    height: 96px;
+    width: 358px;
+    font-size: 9px;
+    right: 508px;
+    top: 230px;
+    padding-bottom: 150px;
+    position: absolute;
+    color: blue;
+    border: 9px solid white;
+}
+
+.starburst img {
+    height: 198px;
+    size: 50px;
+    left: 10px;
+    top: 35px;
+}
+
+.learnmore2 input[type="button"] {
+    position: absolute;
+    right: 530px;
+    top: 445px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10em;
+    background-color: rgb(5, 5, 223);
+    color: white;
+}
+
+
+.socialbackground {
+    position: absolute;
+    bottom: 230px;
+}
+
+.socials .yt{
+    position: absolute;
+    left: 700px;
+    top: 615px;
+}
+
+.socials .facebook {
+    position: absolute;
+    left: 780px;
+    top: 615px;
+}
+
+.socials .twitter {
+    position: absolute;
+    left: 860px;
+    top: 615px;
+}
+
+
+.socials .email {
+    position: absolute;
+    left: 940px;
+    top: 615px;
+}
+
+.line {
+    top: 575px;
+    height: 70px;
+    right: 900px;
+    position: absolute;
+}
+
+.history {
+    position: absolute;
+    right: 700px; 
+    bottom: 340px;
+    color: white;
+}
+
+.wrigley {
+    position: absolute;
+    right: 774px; 
+    bottom: 300px;
+    color: white;
+}
+
+
+.likeFace {
+    position: absolute;
+    right: 756px; 
+    bottom: 255px;
+    color: white;
+}
+
+
+.footerback {
+    bottom: 80px;
+    position: absolute;
+}
+
+.evenbiggerfooterback {
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+
+.evenbiggerfooterback input {
+    color: green;
+    height: 30px;
+    width: 150px;
+    right: 1780px;
+    position: absolute;
+}
